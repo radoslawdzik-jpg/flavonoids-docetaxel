@@ -1,0 +1,5 @@
+comparison,n,min_exact_p,same_direction_n
+combo_minus_dtx,48,0.25,48
+dose_vs_arm_baseline,96,0.25,95
+hprec_treatment_vs_reference,4,0.25,3
+observed_minus_bliss,48,0.25,38

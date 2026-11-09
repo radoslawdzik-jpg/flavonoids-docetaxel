@@ -1,0 +1,7 @@
+{
+  "input_level": "biological experiment means (four technical replicates averaged)",
+  "source_raw_data_included": false,
+  "figure_generation": false,
+  "biological_n": 3,
+  "note": "Downstream numerical rerun; not a verification of upstream raw absorbance normalization, full supplementary statistics or GEO analyses. Model outputs require manuscript concordance audit."
+}

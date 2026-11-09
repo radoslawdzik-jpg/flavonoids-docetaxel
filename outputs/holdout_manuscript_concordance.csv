@@ -1,0 +1,4 @@
+metric,manuscript_MAE_2dp,computed_MAE_2dp,MAE_match,manuscript_RMSE_2dp,computed_RMSE_2dp,RMSE_match
+hill_bliss,5.54,5.53,False,6.69,6.69,True
+hill_interaction,1.54,1.54,True,2.32,2.32,True
+direct_linear_combination,2.26,2.26,True,2.89,2.89,True

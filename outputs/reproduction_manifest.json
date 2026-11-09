@@ -1,0 +1,13 @@
+{
+  "input_sha256": {
+    "data/processed/du145_biological_means.csv": "97a48c32eafe99228c32f9d1b026366550f1f163832e91bd10c7c07e4d69fee1",
+    "data/processed/hprec_biological_means.csv": "3e5c597f3ac1860b9d9b527608830edd4d3b3ed40f60b48329a1b7dfc40f5bdd"
+  },
+  "python": "3.12.16 (main, Oct 26 2026, 11:31:43) [Clang 21.1.8 ]",
+  "numpy": "2.5.4",
+  "pandas": "2.3.3",
+  "scipy": "1.18.1",
+  "geo_executed": false,
+  "figure_generation": false,
+  "reproduction_level": "downstream numerical reanalysis, manuscript concordance not certified"
+}
