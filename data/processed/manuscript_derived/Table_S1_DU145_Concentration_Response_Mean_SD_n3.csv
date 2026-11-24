@@ -1,0 +1,121 @@
+compound,exposure_h,assay,flavonoid_concentration_uM,docetaxel_nM,treatment,response_mean_pct_control,response_sd_biological_pct_points,n_biological,technical_replicates_per_biological
+Apigenin,24,NR,0,0,Flavonoid alone,100.0000,0.6906,3,4
+Apigenin,24,NR,0,10,Flavonoid + docetaxel,78.0000,1.9805,3,4
+Apigenin,24,NR,10,0,Flavonoid alone,94.0000,2.0376,3,4
+Apigenin,24,NR,10,10,Flavonoid + docetaxel,68.0000,2.4434,3,4
+Apigenin,24,NR,25,0,Flavonoid alone,84.0000,3.7693,3,4
+Apigenin,24,NR,25,10,Flavonoid + docetaxel,56.0083,3.7929,3,4
+Apigenin,24,NR,50,0,Flavonoid alone,69.0000,1.8556,3,4
+Apigenin,24,NR,50,10,Flavonoid + docetaxel,40.9917,0.7654,3,4
+Apigenin,24,NR,100,0,Flavonoid alone,51.0000,2.3626,3,4
+Apigenin,24,NR,100,10,Flavonoid + docetaxel,27.0083,4.7765,3,4
+Apigenin,24,SRB,0,0,Flavonoid alone,100.0083,1.0248,3,4
+Apigenin,24,SRB,0,10,Flavonoid + docetaxel,80.9833,3.2416,3,4
+Apigenin,24,SRB,10,0,Flavonoid alone,97.0000,1.0146,3,4
+Apigenin,24,SRB,10,10,Flavonoid + docetaxel,71.0000,2.7713,3,4
+Apigenin,24,SRB,25,0,Flavonoid alone,87.0083,2.2187,3,4
+Apigenin,24,SRB,25,10,Flavonoid + docetaxel,58.9917,0.3908,3,4
+Apigenin,24,SRB,50,0,Flavonoid alone,72.0167,2.9286,3,4
+Apigenin,24,SRB,50,10,Flavonoid + docetaxel,44.0000,4.4080,3,4
+Apigenin,24,SRB,100,0,Flavonoid alone,54.0000,0.6557,3,4
+Apigenin,24,SRB,100,10,Flavonoid + docetaxel,30.0083,4.0452,3,4
+Apigenin,24,XTT,0,0,Flavonoid alone,100.0083,1.2197,3,4
+Apigenin,24,XTT,0,10,Flavonoid + docetaxel,76.0000,2.3610,3,4
+Apigenin,24,XTT,10,0,Flavonoid alone,92.0083,2.0947,3,4
+Apigenin,24,XTT,10,10,Flavonoid + docetaxel,66.0000,0.8771,3,4
+Apigenin,24,XTT,25,0,Flavonoid alone,82.0000,1.1533,3,4
+Apigenin,24,XTT,25,10,Flavonoid + docetaxel,53.9917,1.2967,3,4
+Apigenin,24,XTT,50,0,Flavonoid alone,67.0000,3.8756,3,4
+Apigenin,24,XTT,50,10,Flavonoid + docetaxel,39.0000,2.1936,3,4
+Apigenin,24,XTT,100,0,Flavonoid alone,49.0000,4.3085,3,4
+Apigenin,24,XTT,100,10,Flavonoid + docetaxel,24.9917,3.6090,3,4
+Apigenin,48,NR,0,0,Flavonoid alone,100.0000,1.0232,3,4
+Apigenin,48,NR,0,10,Flavonoid + docetaxel,62.9917,1.5125,3,4
+Apigenin,48,NR,10,0,Flavonoid alone,85.0083,2.7210,3,4
+Apigenin,48,NR,10,10,Flavonoid + docetaxel,51.0000,2.0376,3,4
+Apigenin,48,NR,25,0,Flavonoid alone,72.9917,2.2679,3,4
+Apigenin,48,NR,25,10,Flavonoid + docetaxel,40.0000,2.4697,3,4
+Apigenin,48,NR,50,0,Flavonoid alone,53.9833,2.7909,3,4
+Apigenin,48,NR,50,10,Flavonoid + docetaxel,26.0083,2.8300,3,4
+Apigenin,48,NR,100,0,Flavonoid alone,35.0000,3.4080,3,4
+Apigenin,48,NR,100,10,Flavonoid + docetaxel,14.0000,3.3570,3,4
+Apigenin,48,SRB,0,0,Flavonoid alone,100.0083,1.8948,3,4
+Apigenin,48,SRB,0,10,Flavonoid + docetaxel,62.9917,1.7274,3,4
+Apigenin,48,SRB,10,0,Flavonoid alone,86.0000,0.9657,3,4
+Apigenin,48,SRB,10,10,Flavonoid + docetaxel,51.0083,0.7836,3,4
+Apigenin,48,SRB,25,0,Flavonoid alone,74.0000,3.4179,3,4
+Apigenin,48,SRB,25,10,Flavonoid + docetaxel,40.0000,6.0202,3,4
+Apigenin,48,SRB,50,0,Flavonoid alone,55.0000,2.2816,3,4
+Apigenin,48,SRB,50,10,Flavonoid + docetaxel,26.0000,1.9793,3,4
+Apigenin,48,SRB,100,0,Flavonoid alone,36.0000,3.0448,3,4
+Apigenin,48,SRB,100,10,Flavonoid + docetaxel,14.0083,2.0470,3,4
+Apigenin,48,XTT,0,0,Flavonoid alone,100.0083,1.3868,3,4
+Apigenin,48,XTT,0,10,Flavonoid + docetaxel,62.0083,0.5485,3,4
+Apigenin,48,XTT,10,0,Flavonoid alone,83.9833,1.7948,3,4
+Apigenin,48,XTT,10,10,Flavonoid + docetaxel,50.0083,0.3166,3,4
+Apigenin,48,XTT,25,0,Flavonoid alone,72.0083,2.4583,3,4
+Apigenin,48,XTT,25,10,Flavonoid + docetaxel,39.0000,2.9800,3,4
+Apigenin,48,XTT,50,0,Flavonoid alone,53.0000,2.0632,3,4
+Apigenin,48,XTT,50,10,Flavonoid + docetaxel,25.0000,1.8000,3,4
+Apigenin,48,XTT,100,0,Flavonoid alone,34.0000,2.1000,3,4
+Apigenin,48,XTT,100,10,Flavonoid + docetaxel,14.2250,2.4713,3,4
+Quercetin,24,NR,0,0,Flavonoid alone,100.0000,1.7409,3,4
+Quercetin,24,NR,0,10,Flavonoid + docetaxel,77.9917,2.5547,3,4
+Quercetin,24,NR,10,0,Flavonoid alone,97.0000,1.2730,3,4
+Quercetin,24,NR,10,10,Flavonoid + docetaxel,73.0000,1.3332,3,4
+Quercetin,24,NR,25,0,Flavonoid alone,90.0000,1.5518,3,4
+Quercetin,24,NR,25,10,Flavonoid + docetaxel,65.0083,1.9513,3,4
+Quercetin,24,NR,50,0,Flavonoid alone,77.9917,1.8702,3,4
+Quercetin,24,NR,50,10,Flavonoid + docetaxel,54.0083,0.7443,3,4
+Quercetin,24,NR,100,0,Flavonoid alone,62.9917,3.9123,3,4
+Quercetin,24,NR,100,10,Flavonoid + docetaxel,41.0083,1.9323,3,4
+Quercetin,24,SRB,0,0,Flavonoid alone,100.0000,0.5483,3,4
+Quercetin,24,SRB,0,10,Flavonoid + docetaxel,80.9833,1.0447,3,4
+Quercetin,24,SRB,10,0,Flavonoid alone,100.0083,1.8625,3,4
+Quercetin,24,SRB,10,10,Flavonoid + docetaxel,76.0083,0.3843,3,4
+Quercetin,24,SRB,25,0,Flavonoid alone,93.0000,2.0876,3,4
+Quercetin,24,SRB,25,10,Flavonoid + docetaxel,68.0083,4.3270,3,4
+Quercetin,24,SRB,50,0,Flavonoid alone,81.0000,1.7797,3,4
+Quercetin,24,SRB,50,10,Flavonoid + docetaxel,56.9917,2.0234,3,4
+Quercetin,24,SRB,100,0,Flavonoid alone,66.0083,1.5511,3,4
+Quercetin,24,SRB,100,10,Flavonoid + docetaxel,44.0000,4.2661,3,4
+Quercetin,24,XTT,0,0,Flavonoid alone,100.0083,0.6028,3,4
+Quercetin,24,XTT,0,10,Flavonoid + docetaxel,76.0083,1.1209,3,4
+Quercetin,24,XTT,10,0,Flavonoid alone,95.0083,2.8001,3,4
+Quercetin,24,XTT,10,10,Flavonoid + docetaxel,70.9917,2.5628,3,4
+Quercetin,24,XTT,25,0,Flavonoid alone,88.0167,2.4827,3,4
+Quercetin,24,XTT,25,10,Flavonoid + docetaxel,63.0000,2.1902,3,4
+Quercetin,24,XTT,50,0,Flavonoid alone,76.0083,2.3022,3,4
+Quercetin,24,XTT,50,10,Flavonoid + docetaxel,52.0000,3.8311,3,4
+Quercetin,24,XTT,100,0,Flavonoid alone,60.9917,2.8158,3,4
+Quercetin,24,XTT,100,10,Flavonoid + docetaxel,39.0000,3.5540,3,4
+Quercetin,48,NR,0,0,Flavonoid alone,100.0000,0.6750,3,4
+Quercetin,48,NR,0,10,Flavonoid + docetaxel,63.0000,2.6506,3,4
+Quercetin,48,NR,10,0,Flavonoid alone,91.0083,1.1485,3,4
+Quercetin,48,NR,10,10,Flavonoid + docetaxel,58.0000,1.9721,3,4
+Quercetin,48,NR,25,0,Flavonoid alone,81.0000,3.0376,3,4
+Quercetin,48,NR,25,10,Flavonoid + docetaxel,50.0000,0.9608,3,4
+Quercetin,48,NR,50,0,Flavonoid alone,67.0000,1.4416,3,4
+Quercetin,48,NR,50,10,Flavonoid + docetaxel,38.0000,3.2349,3,4
+Quercetin,48,NR,100,0,Flavonoid alone,49.9917,1.7085,3,4
+Quercetin,48,NR,100,10,Flavonoid + docetaxel,25.9917,5.9221,3,4
+Quercetin,48,SRB,0,0,Flavonoid alone,100.0000,2.7933,3,4
+Quercetin,48,SRB,0,10,Flavonoid + docetaxel,63.0000,1.0633,3,4
+Quercetin,48,SRB,10,0,Flavonoid alone,92.0000,1.7974,3,4
+Quercetin,48,SRB,10,10,Flavonoid + docetaxel,58.0000,0.9744,3,4
+Quercetin,48,SRB,25,0,Flavonoid alone,82.0083,3.0044,3,4
+Quercetin,48,SRB,25,10,Flavonoid + docetaxel,50.0000,0.3382,3,4
+Quercetin,48,SRB,50,0,Flavonoid alone,67.9917,0.9036,3,4
+Quercetin,48,SRB,50,10,Flavonoid + docetaxel,38.0083,1.4879,3,4
+Quercetin,48,SRB,100,0,Flavonoid alone,51.0000,2.2024,3,4
+Quercetin,48,SRB,100,10,Flavonoid + docetaxel,26.0083,2.3304,3,4
+Quercetin,48,XTT,0,0,Flavonoid alone,100.0000,0.2817,3,4
+Quercetin,48,XTT,0,10,Flavonoid + docetaxel,62.0083,1.3787,3,4
+Quercetin,48,XTT,10,0,Flavonoid alone,90.0000,1.0305,3,4
+Quercetin,48,XTT,10,10,Flavonoid + docetaxel,57.0000,1.0929,3,4
+Quercetin,48,XTT,25,0,Flavonoid alone,79.9917,0.9328,3,4
+Quercetin,48,XTT,25,10,Flavonoid + docetaxel,49.0083,2.8869,3,4
+Quercetin,48,XTT,50,0,Flavonoid alone,66.0000,1.2619,3,4
+Quercetin,48,XTT,50,10,Flavonoid + docetaxel,37.0000,8.6109,3,4
+Quercetin,48,XTT,100,0,Flavonoid alone,48.9917,1.3898,3,4
+Quercetin,48,XTT,100,10,Flavonoid + docetaxel,25.0167,2.5093,3,4
