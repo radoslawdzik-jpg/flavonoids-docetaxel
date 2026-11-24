@@ -1,0 +1,31 @@
+.venv/
+__pycache__/
+.pytest_cache/
+outputs/*
+!outputs/.gitkeep
+data/external/*
+!data/external/.gitkeep
+*.png
+*.pdf
+*.svg
+
+# Keep external data documentation, but exclude source datasets
+!data/external/README.md
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# macOS
+.DS_Store
+
+# Generated figures
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.tif
+*.tiff

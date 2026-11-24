@@ -1,0 +1,7 @@
+treatment,docetaxel_nM,flavonoid_uM,time_h,biological_n,technical_n_per_biological,experiment_1_pct,experiment_2_pct,experiment_3_pct,mean_pct,sd_pct,paired_delta_1_pp,paired_delta_2_pp,paired_delta_3_pp,paired_delta_mean_pp,paired_delta_sd_pp
+Control,0,0,24,3,4,101.1200,97.8850,100.9950,100.0000,1.8327,,,,,
+DTX,10,0,24,3,4,64.2475,63.8050,63.7775,63.9433,0.2638,,,,,
+Apigenin,0,50,24,3,4,101.8650,103.5450,102.0750,102.4950,0.9154,,,,,
+DTX+Apigenin,10,50,24,3,4,84.4725,80.6425,84.1800,83.0983,2.1318,20.2250,16.8375,20.4025,19.1550,2.0090
+Quercetin,0,50,24,3,4,97.9500,99.5150,99.9700,99.1450,1.0596,,,,,
+DTX+Quercetin,10,50,24,3,4,74.6075,76.3100,74.1975,75.0383,1.1202,10.3600,12.5050,10.4200,11.0950,1.2215
